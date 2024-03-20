@@ -1,8 +1,3 @@
-// ecemafacan3
-// m1dq9Z6JHtPIf4Sm
-// npm install mongodb
-// mongodb+srv://ecemafacan3:<password>@cluster0.wijkgh0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
 var mongoose = require("mongoose");
 const dotenv = require("dotenv");
 dotenv.config();
